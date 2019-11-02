@@ -6,7 +6,8 @@ https://miryang.dev/2019/07/10/install-flutter/ (macOS)
 2. Android SDK 설치
 
 3. ```bash
-$ flutter doctor <br>
+$ flutter doctor 
+<br>
 flutter 의존성 확인 (설치완료확인)
 
 3. IDE 에 flutter plugin 설치
